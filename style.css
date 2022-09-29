@@ -1,0 +1,35 @@
+body{
+    overflow-x:hidden ;
+    
+}
+#navbar{
+    height: 500px;
+    background-image: url("images/desktop/image-hero.jpg");
+    background-size: cover;
+}
+h1{
+     font-family: 'Abyssinica SIL', serif;;
+     font-weight: 100;
+}
+h2,h3{
+    font-family: 'Roboto', sans-serif;
+}
+.absolute{
+    position: absolute;
+    top: 70px;
+    height: 300px;
+    width: 50%;
+    left: 500px;
+
+}
+
+.roboto{
+    font-family: 'Roboto', sans-serif;
+}
+.collection{
+    height: 400px;
+    width: 100%;
+}
+.bg-black{
+    background-color: black;
+}
